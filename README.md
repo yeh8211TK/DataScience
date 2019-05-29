@@ -10,7 +10,7 @@ Under construction...
 
 - MCMC 的應用(一): 宇宙微波背景輻射(Cosmic Microwave Background Radiation, CMB) (To do list)
 
-- 光子統計學(Photon Statistics): Poissonian、Super-Poissonian and Sub-Poissonian light
+- 光子統計學(Photon Statistics): Poissonian、Super-Poissonian and Sub-Poissonian light (To do list)
 
 #### Part 2 分散式運算處理
 - Spark (To do list)
