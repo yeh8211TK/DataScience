@@ -1,10 +1,10 @@
-### 說明
+## 說明
 
 #### 執行 Shell script
 
 1. 指令: bash EffectiveDoseRate.sh [粒子名稱參數]
 
-粒子名稱參數: e+, e-, mu+, mu-, gamma, neutron, proton, alpha, total
+   粒子名稱參數: e+, e-, mu+, mu-, gamma, neutron, proton, alpha, total
 
 #### COSMIC RAY API 相關資訊
 
