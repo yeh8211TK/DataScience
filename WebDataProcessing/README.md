@@ -6,4 +6,4 @@
 
 - [網路資料的擷取](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/WebDataProcessing/WebDataExtraction.ipynb)
 
-- Python 串接 MySQL 資料庫
+- [Python 串接 MySQL 資料庫](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/WebDataProcessing/DatabaseConnection.ipynb)
