@@ -4,7 +4,7 @@ Under construction...
 
 ## 目錄
 #### Part 1 統計分析與演算法
-- 基礎統計工具: [動差法](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Moment.ipynb)、[統計分佈](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Statistical_distributions.ipynb)、[抽樣分配](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Sampling_distributions.ipynb)、[點估計](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Point_estimation.ipynb)
+- 基礎統計工具: [動差法](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Moment.ipynb)、[統計分佈](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Statistical_distributions.ipynb)、[抽樣分配](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Sampling_distributions.ipynb)、[點估計](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Point_estimation.ipynb)、[假設檢定](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Hypothesis_testing.ipynb)
 
 - 貝葉斯分析(Bayesian analysis) (To do list)
 
