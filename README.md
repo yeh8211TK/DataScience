@@ -25,7 +25,10 @@ Under construction...
 
 - Hadoop (To do list)
 
-#### Part 3 科學資料擷取
+#### Part 3 資料擷取
 - [基礎網路資料處理](https://github.com/yeh8211TK/data_analysis/tree/master/WebDataProcessing)
 
 - [使用 Node.js 串接 Cosmic Ray API](https://github.com/yeh8211TK/data_analysis/tree/master/CosmicRayAPI)
+
+#### Part 4 時間序列分析
+- [時間序列分析 (ARMA)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/TimeSeriesAnalysis/Time_series_analysis%20(ARMA).ipynb)
