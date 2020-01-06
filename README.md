@@ -31,9 +31,9 @@ Under construction...
 - [使用 Node.js 串接 Cosmic Ray API](https://github.com/yeh8211TK/data_analysis/tree/master/CosmicRayAPI)
 
 #### Part 4 時間序列資料分析
-- [ARIMA 模型預測平均溫度](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/TimeSeriesAnalysis/Time_series_analysis%20(ARMA).ipynb)
+- [ARIMA 模型預測平均溫度](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/TimeSeriesAnalysis/ARMA_Model.ipynb)
 
-- [Seasonal ARIMA (SARIMA) 模型預測 CO2 濃度]()
+- [Seasonal ARIMA (SARIMA) 模型預測 CO2 濃度](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/TimeSeriesAnalysis/Seasonal_ARIMA_Model.ipynb)
 
 - [ARMAX model]()
 
