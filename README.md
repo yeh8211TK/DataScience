@@ -43,7 +43,7 @@ Under construction...
 
 #### Part 4 資料預處理(Preprocessing)
 
-- 遺失值處理
+- [遺失值處理](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/DataPreprocessing/Missing_data.ipynb)
 
 - 資料分佈與轉換
 
