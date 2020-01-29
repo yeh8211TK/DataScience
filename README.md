@@ -45,7 +45,7 @@ Under construction...
 
 - [遺失值處理](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/DataPreprocessing/Missing_data.ipynb)
 
-- 資料轉換(transform) & 異常值(outlier)處理 & 資料縮放(scaling)(https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/DataPreprocessing/Transform_Outlier_Scaling.ipynb)
+- [資料轉換(transform) & 異常值(outlier)處理 & 資料縮放(scaling)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/DataPreprocessing/Transform_Outlier_Scaling.ipynb)
 
 #### Part 5 特徵工程(Feature engineering)
 
