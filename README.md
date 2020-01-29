@@ -49,6 +49,8 @@ Under construction...
 
 #### Part 5 特徵工程(Feature engineering)
 
+- 特徵工程
+
 #### Part 6 時間序列資料分析
 
 - [ARIMA 模型預測平均溫度](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/TimeSeriesAnalysis/ARIMA.ipynb)
