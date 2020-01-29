@@ -23,9 +23,9 @@ Under construction...
 
 #### Part 2 資料工程
 
-- 雲端技術(cloud technology)
+- 雲端技術(Cloud technology)
 
-- 分散式平行運算(distributed parallel computing)
+- 分散式平行運算(Distributed parallel computing)
 
   - Spark (To do list)
 
