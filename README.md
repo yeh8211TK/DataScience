@@ -49,7 +49,7 @@ Under construction...
 
 #### Part 5 機械學習相關資料處理
 
-- [特徵工程(Feature engineering)]()
+- [特徵工程(Feature engineering)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Feature_engineering.ipynb)
 
 - 特徵選擇(Feature selection)
 
