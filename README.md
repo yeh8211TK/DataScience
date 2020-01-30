@@ -47,9 +47,11 @@ Under construction...
 
 - [資料轉換(transform) & 異常值(outlier)處理 & 資料縮放(scaling)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/DataPreprocessing/Transform_Outlier_Scaling.ipynb)
 
-#### Part 5 特徵工程(Feature engineering)
+#### Part 5 機械學習相關資料處理
 
-- 特徵工程
+- [訓練/測試資料]()
+
+- 特徵工程(Feature engineering)
 
 #### Part 6 時間序列資料分析
 
