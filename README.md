@@ -49,7 +49,7 @@ Under construction...
 
 #### Part 5 機械學習相關資料處理
 
-- [訓練/測試資料]()
+- [訓練/測試資料](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Training_Test_Split.ipynb)
 
 - 特徵工程(Feature engineering)
 
