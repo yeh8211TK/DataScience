@@ -49,9 +49,11 @@ Under construction...
 
 #### Part 5 機械學習相關資料處理
 
-- [訓練/測試資料](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Training_Test_Split.ipynb)
+- [特徵工程(Feature engineering)]()
 
-- 特徵工程(Feature engineering)
+- 特徵選擇(Feature selection)
+
+- [資料分割(training/test sets)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Training_Test_Split.ipynb)
 
 #### Part 6 時間序列資料分析
 
