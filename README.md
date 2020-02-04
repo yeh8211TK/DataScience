@@ -51,7 +51,7 @@ Under construction...
 
 - [特徵工程(Feature engineering)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Feature_engineering.ipynb)
 
-- 特徵選擇(Feature selection)
+- [特徵選擇(Feature selection)&維度降維(Dimensionality_reduction)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Feature_selection%26Dimensionality_reduction.ipynb)
 
 - [資料分割(training/test sets)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MLDataProcessing/Training_Test_Split.ipynb)
 
