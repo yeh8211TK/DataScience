@@ -6,7 +6,7 @@
 
 - 啟用虛擬環境: conda activate env_flask
 
-- 啟動 Flask 應用程式 python flask.py
+- 啟動 Flask 應用程式: python flask.py
 
 - 關閉虛擬環境: conda deactivate
 
