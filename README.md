@@ -9,17 +9,9 @@ Under construction...
 
 - 貝葉斯分析(Bayesian analysis)
 
-- [馬可夫鏈-蒙地卡羅(Markov Chain Monte Carlo, MCMC)演算法](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Markov_Chain_Monte_Carlo%20(MCMC).ipynb)
+- [馬可夫鏈-蒙地卡羅(Markov Chain Monte Carlo, MCMC)演算法](https://github.com/yeh8211TK/data_analysis/tree/master/MCMC)
 
-- [MCMC 的應用(一): 統計分佈之參數估計(parameter estimations)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MCMC_Sunspots.ipynb)
-
-- [MCMC 的應用(二): 線性回歸問題(Linear regression problems)](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/MCMC_LR.ipynb)
-
-- MCMC 的應用(三): 宇宙微波背景輻射(Cosmic Microwave Background Radiation, CMB) (To do list)
-
-- [宇宙微波背景輻射(Cosmic Microwave Background Radiation, CMB)數據分析](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/CMB_data_analysis.ipynb) (To be continued...)
-
-- 光子統計學(Photon Statistics): Poissonian、Super-Poissonian and Sub-Poissonian light (To do list)
+- 光子統計學(Photon Statistics): Poissonian、Super-Poissonian and Sub-Poissonian light
 
 #### Part 2 資料工程
 
@@ -29,7 +21,7 @@ Under construction...
 
   - [Spark](https://github.com/yeh8211TK/data_analysis/blob/master/Spark)
 
-  - Hadoop (To do list)
+  - Hadoop
 
 - 工作排程框架(Workflow scheduling framework)
 
