@@ -10,6 +10,12 @@
 
 - [點估計](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Statistics/Point_estimation.ipynb)
 
+- 區間估計
+
 - [假設檢定](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Statistics/Hypothesis_testing.ipynb)
 
 - [變異數分析](https://nbviewer.jupyter.org/github/yeh8211TK/data_analysis/blob/master/Statistics/Analysis_Of_Variance%20(ANOVA).ipynb)
+
+- 回歸&相關
+
+- 無母數分析
