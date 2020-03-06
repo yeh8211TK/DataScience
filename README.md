@@ -21,7 +21,7 @@ Under construction...
 
   - [Spark](https://github.com/yeh8211TK/data_analysis/blob/master/Spark)
 
-  - Hadoop
+  - [Hadoop](https://github.com/yeh8211TK/data_analysis/blob/master/Hadoop)
 
 - 工作排程框架(Workflow scheduling framework)
 
