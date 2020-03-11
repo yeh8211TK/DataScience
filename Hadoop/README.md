@@ -1,12 +1,8 @@
 ## 目錄
 
-#### 執行環境 
+執行環境: Mutli-Node Cluster
 
-- Mutli-Node Cluster
-
-#### 運行模式
-
-- yarn-client
+運行模式: yarn-client
 
 #### Hadoop
 
