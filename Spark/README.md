@@ -1,11 +1,29 @@
 ## 目錄
 
-### PySpark
+#### 執行環境
+ 
+- jupyter notebook
+  
+- eclipse + pyDev
+  
+#### 運行模式
+
+- 本機端
+
+- Spark Stand Alone
+
+#### PySpark
 
 - RDD-based Spark Mllib
 
   - Spark RDD  
 
+  - 二元分類
+  
+  - 多元分類
+  
+  - 回歸分析
+  
 - DataFrame-based ML Pipeline
 
   - [二元分類](https://github.com/yeh8211TK/data_analysis/blob/master/Spark/WebPredictions.ipynb)
