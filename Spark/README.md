@@ -26,9 +26,9 @@
   
 - DataFrame-based ML Pipeline
 
-  - [二元分類](https://github.com/yeh8211TK/data_analysis/blob/master/Spark/WebPredictions.ipynb)
+  - [二元分類](https://github.com/yeh8211TK/DataScience/blob/master/Spark/WebPredictions.ipynb)
   
-  - [多元分類](https://github.com/yeh8211TK/data_analysis/blob/master/Spark/ForestCovtype.ipynb)
+  - [多元分類](https://github.com/yeh8211TK/DataScience/blob/master/Spark/ForestCovtype.ipynb)
   
-  - [回歸分析](https://github.com/yeh8211TK/data_analysis/blob/master/Spark/ShareBikes.ipynb)
+  - [回歸分析](https://github.com/yeh8211TK/DataScience/blob/master/Spark/ShareBikes.ipynb)
   
