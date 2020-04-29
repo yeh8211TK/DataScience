@@ -3,6 +3,7 @@
 Under construction...
 
 ## 目錄
+
 #### Part 1 統計分析與演算法
 
 - [基礎統計工具](https://github.com/yeh8211TK/data_analysis/tree/master/Statistics)
@@ -15,7 +16,7 @@ Under construction...
 
 #### Part 2 資料工程
 
-- 雲端技術(Cloud technology)
+- [雲端技術(Cloud technology)](https://github.com/yeh8211TK/data_analysis/tree/master/CloudTech)
 
 - 分散式平行運算(Distributed parallel computing)
 
