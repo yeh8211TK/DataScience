@@ -1,6 +1,6 @@
-## Cloud technology
+### Cloud technology
 
-#### 雲端服務供應商
+#### A. 雲端服務供應商
 
 - Amazon Web Services (AWS)
 
@@ -8,7 +8,7 @@
 
 - Google Chrome Platform
 
-#### 雲端服務
+#### B. 雲端服務
 
 - 儲存
 
