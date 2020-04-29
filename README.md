@@ -6,11 +6,11 @@ Under construction...
 
 #### Part 1 統計分析與演算法
 
-- [基礎統計工具](https://github.com/yeh8211TK/data_analysis/tree/master/Statistics)
+- [基礎統計工具](https://github.com/yeh8211TK/DataScience/tree/master/Statistics)
 
 - 貝葉斯分析(Bayesian analysis)
 
-- [馬可夫鏈-蒙地卡羅(Markov Chain Monte Carlo, MCMC)演算法](https://github.com/yeh8211TK/data_analysis/tree/master/MCMC)
+- [馬可夫鏈-蒙地卡羅(Markov Chain Monte Carlo, MCMC)演算法](https://github.com/yeh8211TK/DataScience/tree/master/MCMC)
 
 - 光子統計學(Photon Statistics): Poissonian、Super-Poissonian and Sub-Poissonian light
 
