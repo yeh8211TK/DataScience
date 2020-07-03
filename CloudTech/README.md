@@ -12,7 +12,7 @@
 
 - 儲存
 
-  - [AWS S3](https://yeh8211tk.github.io)
+  - [AWS S3](https://yeh8211tk.github.io/2020/06/30/AWS)
   
   - Azure Blob Storage
   
